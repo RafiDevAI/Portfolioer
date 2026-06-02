@@ -1,0 +1,10 @@
+# Task: Verify Bookshelf Size and Scrollability
+
+## Plan
+1. [ ] Navigate to http://localhost:3000
+2. [ ] Check if the page has scrollbars / is scrollable
+3. [ ] Capture a screenshot of the entire viewport
+4. [ ] Write verification report and complete the task
+
+## Findings
+- 

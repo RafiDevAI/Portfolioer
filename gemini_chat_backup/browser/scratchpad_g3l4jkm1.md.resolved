@@ -1,0 +1,45 @@
+# Verification Plan
+- [x] List browser pages and refresh localhost:3000
+- [x] Take a screenshot and analyze DOM to verify visual layout
+  - [x] Check if "Kazi's Library" header and search bar are 100% fully visible at the top of the viewport
+  - [x] Check if shelf category labels (Movies, Places, Art, Hobbies, App, etc.) are clear, bold, highly visible, and have zero text clipping or overlapping
+  - [x] Check if book titles on the spines are sharp, high-contrast, and easy to read
+- [x] Save screenshot as artifact
+- [x] Final report to the user
+
+## Detailed Verification Findings
+
+### 1. Header & Search Bar Visibility (PASS)
+- The header **"Kazi's Library"** and subtitle **"A curated interactive archive of life and craft"** are 100% fully visible and perfectly positioned at the top of the viewport.
+- The **"Search library..."** input bar and the **"Edit Shelf"** button are fully visible, clear, and perfectly functional.
+- The cozy room ornaments above the bookcase (hanging pendant, pink sunglasses, "BAICOLI" label, perfume bottle) are nicely separated and do not overlap with the header.
+
+### 2. Shelf Category Labels (FAIL)
+- **Severe Text Clipping and Overlapping:** The shelf category labels are positioned absolutely behind the books on each shelf, causing them to be heavily covered and almost entirely obscured by the books.
+- **Examples of Obscuration:**
+  - **Movies:** Only the letters **"MO"** are visible; the rest is covered by the movie books.
+  - **Places:** Only **"PL"** is visible.
+  - **Art:** Only **"AR"** is visible.
+  - **Social Profiles:** "SO" is visible on the left, "FILES" on the right, but the middle is covered.
+  - **Memories:** Covered by the speaker ornament on the left; only "MEMORI" is visible on the right.
+  - **Gallery:** Fully visible (since the shelf is empty), but the top edge is slightly close to the shelf divider.
+  - **Links (bottom shelf):** Only **"LI"** is visible, "NKS" is covered.
+  - **Games:** Only **"GA"** is visible.
+  - **Food:** Only **"FO"** is visible.
+  - **Hobbies:** Only **"HO"** is visible.
+  - **Apps Built (Collection):** Only "AP" and "O)" are visible.
+  - **Awards:** Only **"AW"** is visible.
+  - **Papers Written:** Mostly visible because there are only two books, but the left part of the text is still slightly covered by the books.
+  - **Books:** Only **"BO"** is visible.
+  - **Music:** Only **"MU"** is visible.
+  - **Items:** Only **"IT"** is visible.
+  - **Wishlist:** Only **"WI"** is visible.
+  - **Quotes I Live By:** Only "QU" and "IVE BY" are visible.
+  - **Projects & Skills (bottom shelf):** Only **"PR"** is visible.
+- **Recommendation:** These labels should be moved to be inline with the shelf or positioned above/below the shelf line (e.g., as a header above each shelf) rather than directly behind the books where they are hidden.
+
+### 3. Book Spine Titles Readability (FAIL)
+- **Low Contrast:** The book title text on the spines is styled in black color across all books. For dark-colored spines (like dark blue, dark green, or dark red), this creates extremely low contrast, making the text virtually unreadable.
+- **Examples of unreadable spines:**
+  - *The Matrix, Interstellar, Gladiator, Witcher 3, Cyberpunk, Red Dead 2, Dune, Foundation, Neural Nets V1, Next.js Magic* (all have black text on dark blue/dark green spines).
+- **Recommendation:** Books with dark spine colors should use white or gold text for titles and subtitles to ensure sharp, high-contrast, and easy-to-read typography.

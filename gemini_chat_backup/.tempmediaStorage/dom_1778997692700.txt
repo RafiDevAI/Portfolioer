@@ -1,0 +1,160 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Kazi's Library
+A curated interactive archive of life and craft
+Edit Shelf
+BAICOLI
+Movies & Shows
+The Matrix
+Wachowskis
+Inception
+Nolan
+Interstellar
+Nolan
+Blade Runner
+Scott
+Arrival
+Villeneuve
+Gladiator
+Scott
+Places Visited
+Kyoto, JP
+2023
+Swiss Alps
+2022
+Reykjavik
+2021
+New York
+2019
+Paris
+2018
+Art Portfolio
+Digital Sketch
+2024
+Oil Painting
+2023
+Watercolors
+2022
+Concept Art
+2021
+Social Profiles
+X / Twitter
+Github Craft
+LinkedIn
+Memories
+Graduation
+Euro Summer
+Japan Trip
+Gallery
+Connections
+Tech Mentors
+Study Groups
+Games
+Elden Ring
+FromSoft
+Witcher 3
+CDPR
+Cyberpunk
+CDPR
+Zelda TotK
+Nintendo
+Red Dead 2
+Rockstar
+Food
+Ramen Tokyo
+Japan
+Pizza Naples
+Italy
+Sushi Master
+Osaka
+French Pastry
+Paris
+Hobbies
+Star Gazer
+Synthesizers
+Leathercraft
+Bonsai Art
+Storybook
+Der Hase...
+Apps Built (Collection)
+Obsidian Custom
+Brainwaves
+Mindmaps
+Tasker Pro
+Cozy Library
+Fit Tracker
+Web Scraper
+Dev Terminal
+Achievements
+First 1k Users
+Hackathon Win
+Open Source
+Papers Written
+Neural Nets V1
+Transformers
+Books
+Dune
+Herbert
+Hail Mary
+Weir
+Foundation
+Asimov
+Neuromancer
+Gibson
+Hyperion
+Simmons
+Music
+Discovery
+Daft Punk
+In Rainbows
+Radiohead
+Currents
+Tame Impala
+Abbey Road
+Beatles
+Collections
+Vinyl Records
+Rare Coins
+Vintage Stamps
+Old Cameras
+Wishlist
+Leica Q3 Camera
+HHKB Keyboard
+OLED Monitor
+Quotes I Live By
+Stay Hungry
+No Spoon
+Carpe Diem
+Projects & Skills
+Portfolioer
+Next.js Magic
+Tailwind CSS
+Fin
+[0] (500,593)<div  />
+	[1] (500,593)<div  />
+		[2] (500,593)<div  />
+			[3] (500,548)<h2 >Gladiator />
+			[4] (500,607)<div  />
+			[5] (500,657)<p >Click to Open />
+	Introduction
+	Gladiator
+	"A story about passion, dedication, and the pursuit of excellence in the field of
+	movies
+	."
+Photo of
+Gladiator
+movies
+★
+★
+★
+★
+★
+This entry explores the significance of Gladiator in my personal library. It represents a milestone in my journey through movies.
+Final Thoughts
+Ready to explore more?
+Return to Shelf
+© 2026 Portfolioer • Inspired by Rafi's cozy library
+
+</current_dom>

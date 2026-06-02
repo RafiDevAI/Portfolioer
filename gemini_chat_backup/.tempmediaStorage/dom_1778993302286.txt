@@ -1,0 +1,107 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (172,41)<div  />
+	[1] (172,41)<div  />
+		[2] (172,41)<div  />
+			[3] (172,41)<span >X / Twitter />
+		[4] (176,109)<div  />
+[5] (200,32)<div  />
+	[6] (200,32)<div  />
+		[7] (200,32)<div  />
+			[8] (200,32)<span >Github Craft />
+		[9] (200,112)<div  />
+Memories
+[10] (172,309)<div  />
+	[11] (172,309)<div  />
+		[12] (173,309)<div  />
+			[13] (173,309)<span >Graduation Day />
+		[14] (166,214)<div  />
+		[15] (167,219)<div  />
+		[16] (178,383)<div  />
+[17] (203,304)<div  />
+	[18] (203,304)<div  />
+		[19] (203,304)<div  />
+			[20] (203,304)<span >Euro Summer />
+		[21] (203,201)<div  />
+		[22] (203,206)<div  />
+		[23] (203,386)<div  />
+Connections
+[24] (179,567)<div  />
+	[25] (179,567)<div  />
+		[26] (179,567)<div  />
+			[27] (179,567)<span >Tech Mentors />
+		[28] (179,475)<div  />
+		[29] (179,480)<div  />
+		[30] (179,638)<div  />
+Obsidian Custom
+[31] (417,68)<div  />
+Brainwaves
+[32] (440,66)<div  />
+Achievements
+[33] (417,258)<div  />
+	[34] (417,258)<div  />
+		[35] (417,258)<div  />
+			[36] (417,258)<span >First 1k Users />
+		[37] (417,157)<div  />
+		[38] (417,163)<div  />
+		[39] (417,337)<div  />
+[40] (446,266)<div  />
+	[41] (446,266)<div  />
+		[42] (446,266)<div  />
+			[43] (446,266)<span >Hackathon Win />
+		[44] (452,175)<div  />
+		[45] (452,181)<div  />
+		[46] (442,334)<div  />
+Papers Written
+[47] (416,524)<div  />
+	[48] (416,524)<div  />
+		[49] (417,524)<div  />
+			[50] (417,524)<span >Neural Nets V1 />
+		[51] (417,426)<div  />
+		[52] (417,431)<div  />
+		[53] (417,600)<div  />
+[54] (653,25)<div  />
+	[55] (653,25)<div  />
+		[56] (653,25)<div  />
+			[57] (653,25)<span >Leica Q3 Camera />
+		[58] (653,104)<div  />
+[59] (682,34)<div  />
+	[60] (682,34)<div  />
+		[61] (682,34)<div  />
+			[62] (682,34)<span >Mechanical Key />
+		[63] (678,101)<div  />
+Quotes I Live By
+[64] (644,293)<div  />
+	[65] (644,293)<div  />
+		[66] (644,293)<div  />
+			[67] (644,293)<span >Stay Hungry />
+		[68] (638,203)<div  />
+		[69] (638,208)<div  />
+		[70] (649,362)<div  />
+[71] (671,289)<div  />
+	[72] (671,289)<div  />
+		[73] (671,289)<div  />
+			[74] (671,289)<span >No Spoon />
+		[75] (671,193)<div  />
+		[76] (671,198)<div  />
+		[77] (671,364)<div  />
+Projects & Skills
+[78] (653,556)<div  />
+	[79] (653,556)<div  />
+		[80] (653,556)<div  />
+			[81] (653,556)<span >Portfolioer />
+		[82] (653,453)<div  />
+		[83] (653,458)<div  />
+		[84] (653,638)<div  />
+[85] (683,564)<div  />
+	[86] (683,564)<div  />
+		[87] (683,564)<div  />
+			[88] (683,564)<span >Next.js Magic />
+		[89] (690,470)<div  />
+		[90] (689,475)<div  />
+		[91] (679,635)<div  />
+© 2026 Portfolioer • Inspired by Rafi's cozy library
+
+</current_dom>

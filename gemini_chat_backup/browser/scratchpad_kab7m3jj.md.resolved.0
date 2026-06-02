@@ -1,0 +1,7 @@
+# Bookshelf Layout Verification Plan
+
+- [ ] Navigate to http://localhost:3000
+- [ ] Check if the header card is beautifully separated from the top shelf ornaments without collision
+- [ ] Check if shelf ornaments (Lucky Cat, Bunny, Lisa Simpson, Speaker, documents) sit inline side-by-side with the books instead of overlapping them
+- [ ] Verify books are fully visible, legible, and clickable
+- [ ] Capture a screenshot and save it as an artifact

@@ -1,0 +1,179 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Kazi's Library
+A curated interactive archive of life and craft
+[0] (686,140)<input class='w-full bg-[#fdfbf7] border border-[#8c7e6d]/20 rounded-full py-2 px-5 pl-10 font-sans text-xs focus:outline-none focus:ring-2 focus:ring-[#8c7e6d]/15 transition-all text-[#4a4136]' placeholder='Search library...' />
+[1] (814,140)<button class='px-5 py-2 rounded-full font-sans text-[10px] uppercase tracking-widest font-semibold transition-all bg-[#fdfbf7] text-[#4a4136] border border-[#8c7e6d]/25 hover:bg-[#fbf9f4]'>Edit Shelf />
+BAICOLI
+Movies & Shows
+[2] (173,604)<div  />
+	[3] (173,604)<div  />
+		[4] (173,604)<div  />
+			[5] (173,604)<span >The Matrix />
+		[6] (179,699)<div  />
+			[7] (179,699)<span >1999 />
+		[8] (166,504)<div  />
+		[9] (167,509)<div  />
+		[10] (178,683)<div  />
+[11] (202,613)<div  />
+	[12] (202,613)<div  />
+		[13] (202,613)<div  />
+			[14] (202,613)<span >Inception />
+		[15] (202,702)<div  />
+			[16] (202,702)<span >2010 />
+		[17] (202,519)<div  />
+		[18] (202,524)<div  />
+		[19] (202,686)<div  />
+[20] (224,603)<div  />
+	[21] (224,603)<div  />
+		[22] (224,603)<div  />
+			[23] (224,603)<span >Interstellar />
+		[24] (224,702)<div  />
+			[25] (224,702)<span >2014 />
+		[26] (224,498)<div  />
+		[27] (224,504)<div  />
+		[28] (224,686)<div  />
+[29] (252,619)<div  />
+	[30] (252,619)<div  />
+		[31] (252,619)<div  />
+			[32] (252,619)<span >Blade Runner />
+		[33] (247,700)<div  />
+			[34] (247,700)<span >1982 />
+		[35] (258,532)<div  />
+		[36] (258,537)<div  />
+		[37] (248,684)<div  />
+Places Visited
+[38] (180,879)<div  />
+	[39] (180,879)<div  />
+		[40] (180,879)<div  />
+			[41] (180,879)<span >Kyoto, Japan />
+		[42] (180,972)<div  />
+			[43] (180,972)<span >2023 />
+		[44] (180,955)<div  />
+[45] (195,874)<div  />
+	[46] (195,874)<div  />
+		[47] (195,874)<div  />
+			[48] (195,874)<span >Swiss Alps />
+		[49] (201,969)<div  />
+			[50] (201,969)<span >2022 />
+		[51] (188,773)<div  />
+		[52] (189,779)<div  />
+		[53] (200,952)<div  />
+[54] (231,885)<div  />
+	[55] (231,885)<div  />
+		[56] (231,885)<div  />
+			[57] (231,885)<span >Reykjavik />
+		[58] (225,969)<div  />
+			[59] (225,969)<span >2021 />
+		[60] (237,794)<div  />
+		[61] (237,800)<div  />
+		[62] (227,953)<div  />
+Games
+[63] (380,576)<div  />
+	[64] (380,576)<div  />
+		[65] (380,576)<div  />
+			[66] (380,576)<span >Elden Ring />
+		[67] (380,674)<div  />
+			[68] (380,674)<span >2022 />
+		[69] (380,473)<div  />
+		[70] (380,478)<div  />
+		[71] (380,658)<div  />
+[72] (404,583)<div  />
+	[73] (404,583)<div  />
+		[74] (405,583)<div  />
+			[75] (405,583)<span >The Witcher 3 />
+		[76] (405,674)<div  />
+			[77] (405,674)<span >2015 />
+		[78] (405,486)<div  />
+		[79] (405,492)<div  />
+		[80] (405,658)<div  />
+[81] (432,587)<div  />
+	[82] (432,587)<div  />
+		[83] (432,587)<div  />
+			[84] (432,587)<span >Cyberpunk />
+		[85] (427,672)<div  />
+			[86] (427,672)<span >2020 />
+		[87] (438,497)<div  />
+		[88] (438,502)<div  />
+		[89] (428,655)<div  />
+Food
+[90] (409,967)<div  />
+	[91] (409,967)<div  />
+		[92] (409,967)<div >Tokyo />
+			[93] (395,967)<span >Ramen Guide />
+			Tokyo
+		[94] (373,967)<div  />
+		[95] (376,967)<div  />
+Pizza Art
+Naples
+Sushi Masters
+[96] (591,964)<span >Osaka />
+[97] (597,964)<div  />
+Books
+[98] (694,602)<div  />
+	[99] (694,602)<div  />
+		[100] (694,602)<div  />
+			[101] (694,602)<span >Dune />
+		[102] (694,702)<div  />
+			[103] (694,702)<span >Frank Herbert />
+		[104] (694,496)<div  />
+		[105] (694,501)<div  />
+		[106] (694,686)<div  />
+[107] (713,606)<div  />
+	[108] (713,606)<div  />
+		[109] (713,606)<div  />
+			[110] (713,606)<span >Project Hail Mary />
+		[111] (720,699)<div  />
+			[112] (720,699)<span >Andy Weir />
+		[113] (707,508)<div  />
+		[114] (707,513)<div  />
+		[115] (719,683)<div  />
+[116] (742,613)<div  />
+	[117] (742,613)<div  />
+		[118] (742,613)<div  />
+			[119] (742,613)<span >Foundation />
+		[120] (742,702)<div  />
+			[121] (742,702)<span >Isaac Asimov />
+		[122] (742,519)<div  />
+		[123] (742,524)<div  />
+		[124] (742,686)<div  />
+[125] (768,617)<div  />
+	[126] (768,617)<div  />
+		[127] (768,617)<div  />
+			[128] (768,617)<span >Neuromancer />
+		[129] (762,700)<div  />
+			[130] (762,700)<span >W. Gibson />
+		[131] (774,528)<div  />
+		[132] (774,533)<div  />
+		[133] (763,684)<div  />
+Music
+[134] (691,877)<div  />
+	[135] (691,877)<div  />
+		[136] (692,877)<div  />
+			[137] (692,877)<span >Discovery />
+		[138] (692,972)<div  />
+			[139] (692,972)<span >Daft Punk />
+		[140] (692,776)<div  />
+		[141] (692,955)<div  />
+[142] (707,882)<div  />
+	[143] (707,882)<div  />
+		[144] (707,882)<div  />
+			[145] (707,882)<span >In Rainbows />
+		[146] (713,969)<div  />
+			[147] (713,969)<span >Radiohead />
+		[148] (701,789)<div  />
+		[149] (701,794)<div  />
+		[150] (712,953)<div  />
+[151] (741,886)<div  />
+	[152] (741,886)<div  />
+		[153] (741,886)<div  />
+			[154] (741,886)<span >Currents />
+		[155] (736,969)<div  />
+			[156] (736,969)<span >Tame Impala />
+		[157] (747,797)<div  />
+		[158] (747,803)<div  />
+		[159] (737,953)<div  />
+
+</current_dom>

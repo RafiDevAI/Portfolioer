@@ -1,0 +1,12 @@
+# Bookshelf Layout & Aesthetic Verification Checklist
+
+- [ ] Navigate to http://localhost:3000 and ensure the latest version is loaded (hard refresh if needed).
+- [ ] Verify webpage background features:
+  - [ ] Gorgeous vertical paneling wallpaper.
+  - [ ] Oak parquet floor lines are rendered.
+  - [ ] Warm spotlight glow makes the cabinet stand out.
+- [ ] Verify bookcase dimensions and look:
+  - [ ] Beautifully compact and tall.
+  - [ ] Max width limit: `max-w-[620px]` and height limit: `h-[670px]` (no scrollbars).
+- [ ] Verify all books and ornaments are absolutely perfect (Lisa Simpson, Lucky Cat, green leaning book, Bunny Plush, Potted Plants, etc.).
+- [ ] Capture verification screenshot and save as artifact.

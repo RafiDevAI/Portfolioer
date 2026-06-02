@@ -1,0 +1,11 @@
+# Task: Verify 3D Bookshelf on localhost:3000
+
+## Checklist
+- [ ] Navigate to http://localhost:3000
+- [ ] Take screenshot of the bookshelf
+- [ ] Hover over a book and observe tilt effect
+- [ ] Click a book and observe slide out/open effect
+- [ ] Report visual quality and issues
+
+## Observations
+- 

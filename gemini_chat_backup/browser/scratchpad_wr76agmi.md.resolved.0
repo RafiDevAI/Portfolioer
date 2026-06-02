@@ -1,0 +1,10 @@
+# Task: Verify Cozy Library Layout and Tabs
+
+## Checklist
+- [ ] Open http://localhost:3000 and wait for load
+- [ ] Capture screenshot of default Modular 3-Column view
+- [ ] Inspect elements of Modular 3-Column view (books, labels, wood lips)
+- [ ] Find and click "Grand Wall (6-Col)" tab
+- [ ] Capture screenshot of Grand Wall 6-Column view
+- [ ] Inspect elements of Grand Wall 6-Column view
+- [ ] Verify tab switching is functional and books are well-contained and titles readable

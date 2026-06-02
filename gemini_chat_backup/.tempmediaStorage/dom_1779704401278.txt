@@ -1,0 +1,323 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Kazi's Library
+A curated interactive archive of life and craft
+[0] (580,82)<input class='w-full bg-[#fdfbf7] border border-[#8c7e6d]/30 rounded-full py-1.5 px-4 pl-8 font-sans text-[10px] focus:outline-none focus:ring-1 focus:ring-[#8c7e6d]/20 text-[#4a4136] placeholder:text-[#8c7e6d]/60 font-semibold' placeholder='Search library...' />
+[1] (662,82)<button class='px-3 py-1.5 rounded-full font-sans text-[9px] uppercase tracking-widest font-bold transition-all shrink-0 shadow-sm bg-[#fdfbf7] text-[#3e3529] border border-[#8c7e6d]/30 hover:bg-[#fbf9f4]'>Edit />
+[2] (452,177)<button class='px-4 py-1.5 rounded-full font-sans text-[9px] uppercase tracking-widest font-bold transition-all bg-[#3e3529] text-white shadow'>Modular (3-Col) />
+[3] (542,177)<button class='px-4 py-1.5 rounded-full font-sans text-[9px] uppercase tracking-widest font-bold transition-all text-[#655a4d] hover:bg-[#8c7e6d]/5'>Grand Wall (6-Col) />
+BAICOLI
+The Matrix
+Inception
+Interstellar
+Blade Runner
+Arrival
+[4] (325,347)<div  />
+	[5] (325,347)<div  />
+		[6] (325,351)<div  />
+			[7] (325,351)<span >Gladiator />
+		[8] (325,297)<div  />
+		[9] (325,397)<div  />
+Movies
+Kyoto, JP
+[10] (345,534)<div  />
+	[11] (345,534)<div  />
+		[12] (345,534)<div  />
+			[13] (337,534)<span >Swiss Alps />
+[14] (345,507)<div  />
+	[15] (345,507)<div  />
+		[16] (345,507)<div  />
+			[17] (336,507)<span >Reykjavik />
+[18] (345,480)<div  />
+	[19] (345,480)<div  />
+		[20] (345,480)<div  />
+			[21] (336,480)<span >New York />
+[22] (345,451)<div  />
+	[23] (345,451)<div  />
+		[24] (345,451)<div  />
+			[25] (330,451)<span >Paris />
+Places
+[26] (324,645)<div  />
+	[27] (324,645)<div  />
+		[28] (325,650)<div  />
+			[29] (325,650)<span >Digital Sketch />
+		[30] (325,595)<div  />
+		[31] (325,695)<div  />
+[32] (337,645)<div  />
+	[33] (337,645)<div  />
+		[34] (337,650)<div  />
+			[35] (337,650)<span >Oil Painting />
+		[36] (337,595)<div  />
+		[37] (337,695)<div  />
+[38] (349,644)<div  />
+	[39] (349,644)<div  />
+		[40] (350,606)<div  />
+		[41] (350,649)<div  />
+			[42] (350,649)<span >Watercolors />
+		[43] (350,595)<div  />
+		[44] (350,694)<div  />
+[45] (362,645)<div  />
+	[46] (362,645)<div  />
+		[47] (362,650)<div  />
+			[48] (362,650)<span >Concept Art />
+		[49] (362,595)<div  />
+		[50] (362,695)<div  />
+Art
+[51] (324,794)<div  />
+	[52] (324,794)<div  />
+		[53] (324,799)<div  />
+			[54] (324,799)<span >X / Twitter />
+		[55] (324,744)<div  />
+		[56] (324,844)<div  />
+[57] (336,794)<div  />
+	[58] (336,794)<div  />
+		[59] (337,799)<div  />
+			[60] (337,799)<span >Github Craft />
+		[61] (337,744)<div  />
+		[62] (337,844)<div  />
+[63] (349,794)<div  />
+	[64] (349,794)<div  />
+		[65] (349,799)<div  />
+			[66] (349,799)<span >LinkedIn />
+		[67] (349,744)<div  />
+		[68] (349,844)<div  />
+Social
+[69] (345,953)<div  />
+	[70] (345,953)<div  />
+		[71] (345,953)<div  />
+			[72] (339,953)<span >Graduation />
+[73] (345,925)<div  />
+	[74] (345,925)<div  />
+		[75] (345,925)<div  />
+			[76] (340,925)<span >Euro Summer />
+[77] (345,898)<div  />
+	[78] (345,898)<div  />
+		[79] (345,898)<div  />
+			[80] (336,898)<span >Japan Trip />
+[81] (402,347)<div  />
+	[82] (402,347)<div  />
+		[83] (402,351)<div  />
+			[84] (402,351)<span >Elden Ring />
+		[85] (402,297)<div  />
+		[86] (402,397)<div  />
+[87] (415,347)<div  />
+	[88] (415,347)<div  />
+		[89] (415,351)<div  />
+			[90] (415,351)<span >Witcher 3 />
+		[91] (415,297)<div  />
+		[92] (415,397)<div  />
+[93] (427,347)<div  />
+	[94] (427,347)<div  />
+		[95] (428,351)<div  />
+			[96] (428,351)<span >Cyberpunk />
+		[97] (428,297)<div  />
+		[98] (428,397)<div  />
+[99] (440,347)<div  />
+	[100] (440,347)<div  />
+		[101] (440,351)<div  />
+			[102] (440,351)<span >Zelda TotK />
+		[103] (440,297)<div  />
+		[104] (440,397)<div  />
+[105] (454,347)<div  />
+	[106] (454,347)<div  />
+		[107] (454,351)<div  />
+			[108] (454,351)<div  />
+				[109] (454,351)<span >Red Dead 2 />
+		[110] (454,297)<div  />
+		[111] (454,397)<div  />
+Games
+[112] (422,478)<div  />
+	[113] (422,478)<div  />
+		[114] (422,478)<div  />
+			[115] (417,478)<span >Ramen Tokyo />
+[116] (477,478)<div  />
+	[117] (477,478)<div  />
+		[118] (477,478)<div  />
+			[119] (471,478)<span >Pizza Naples />
+[120] (422,451)<div  />
+	[121] (422,451)<div  />
+		[122] (422,451)<div  />
+			[123] (417,451)<span >Sushi Master />
+[124] (476,451)<div  />
+	[125] (476,451)<div  />
+		[126] (476,451)<div  />
+			[127] (472,451)<span >French Pastry />
+Food
+[128] (422,629)<div  />
+	[129] (422,629)<div  />
+		[130] (422,629)<div  />
+			[131] (414,629)<span >Star Gazer />
+[132] (477,628)<div  />
+	[133] (477,628)<div  />
+		[134] (477,628)<div  />
+			[135] (472,628)<span >Synthesizers />
+[136] (422,600)<div  />
+	[137] (422,600)<div  />
+		[138] (422,600)<div  />
+			[139] (418,600)<span >Leathercraft />
+[140] (476,601)<div  />
+	[141] (476,601)<div  />
+		[142] (476,601)<div  />
+			[143] (468,601)<span >Bonsai Art />
+Hobbies
+[144] (401,794)<div  />
+	[145] (401,794)<div  />
+		[146] (401,799)<div  />
+			[147] (401,799)<span >Obsidian Custom />
+		[148] (401,744)<div  />
+		[149] (401,844)<div  />
+[150] (413,794)<div  />
+	[151] (413,794)<div  />
+		[152] (413,799)<div  />
+			[153] (413,799)<span >Brainwaves />
+		[154] (413,744)<div  />
+		[155] (413,844)<div  />
+[156] (424,794)<div  />
+	[157] (424,794)<div  />
+		[158] (425,799)<div  />
+			[159] (425,799)<span >Mindmaps />
+		[160] (425,744)<div  />
+		[161] (425,844)<div  />
+[162] (436,794)<div  />
+	[163] (436,794)<div  />
+		[164] (436,799)<div  />
+			[165] (436,799)<span >Tasker Pro />
+		[166] (436,744)<div  />
+		[167] (436,844)<div  />
+[168] (448,794)<div  />
+	[169] (448,794)<div  />
+		[170] (448,799)<div  />
+			[171] (448,799)<span >Cozy Library />
+		[172] (448,744)<div  />
+		[173] (448,844)<div  />
+[174] (460,794)<div  />
+	[175] (460,794)<div  />
+		[176] (460,799)<div  />
+			[177] (460,799)<span >Fit Tracker />
+		[178] (460,744)<div  />
+		[179] (460,844)<div  />
+[180] (471,794)<div  />
+	[181] (471,794)<div  />
+		[182] (472,799)<div  />
+			[183] (472,799)<span >Web Scraper />
+		[184] (472,744)<div  />
+		[185] (472,844)<div  />
+[186] (483,794)<div  />
+	[187] (483,794)<div  />
+		[188] (483,799)<div  />
+			[189] (483,799)<span >Dev Terminal />
+		[190] (483,744)<div  />
+		[191] (483,844)<div  />
+Apps
+[192] (422,925)<div  />
+	[193] (422,925)<div  />
+		[194] (422,925)<div  />
+			[195] (418,925)<span >First 1k Users />
+[196] (477,925)<div  />
+	[197] (477,925)<div  />
+		[198] (477,925)<div  />
+			[199] (473,925)<span >Hackathon Win />
+[200] (422,898)<div  />
+	[201] (422,898)<div  />
+		[202] (422,898)<div  />
+			[203] (417,898)<span >Open Source />
+[204] (550,347)<div  />
+	[205] (550,347)<div  />
+		[206] (551,351)<div  />
+			[207] (551,351)<div  />
+				[208] (551,351)<span >Dune />
+		[209] (551,297)<div  />
+		[210] (551,397)<div  />
+[211] (564,347)<div  />
+	[212] (564,347)<div  />
+		[213] (564,351)<div  />
+			[214] (564,351)<span >Hail Mary />
+		[215] (564,297)<div  />
+		[216] (564,397)<div  />
+[217] (577,347)<div  />
+	[218] (577,347)<div  />
+		[219] (577,351)<div  />
+			[220] (577,351)<span >Foundation />
+		[221] (577,297)<div  />
+		[222] (577,397)<div  />
+[223] (589,347)<div  />
+	[224] (589,347)<div  />
+		[225] (589,308)<div  />
+		[226] (589,351)<div  />
+			[227] (589,351)<span >Neuromancer />
+		[228] (589,297)<div  />
+		[229] (589,397)<div  />
+[230] (601,347)<div  />
+	[231] (601,347)<div  />
+		[232] (602,351)<div  />
+			[233] (602,351)<span >Hyperion />
+		[234] (602,297)<div  />
+		[235] (602,397)<div  />
+Books
+[236] (550,496)<div  />
+	[237] (550,496)<div  />
+		[238] (550,500)<div  />
+			[239] (550,500)<span >Discovery />
+		[240] (550,446)<div  />
+		[241] (550,546)<div  />
+[242] (563,496)<div  />
+	[243] (563,496)<div  />
+		[244] (563,500)<div  />
+			[245] (563,500)<span >In Rainbows />
+		[246] (563,446)<div  />
+		[247] (563,546)<div  />
+[248] (575,496)<div  />
+	[249] (575,496)<div  />
+		[250] (575,457)<div  />
+		[251] (575,500)<div  />
+			[252] (575,500)<span >Currents />
+		[253] (575,446)<div  />
+		[254] (575,546)<div  />
+[255] (588,496)<div  />
+	[256] (588,496)<div  />
+		[257] (588,500)<div  />
+			[258] (588,500)<span >Abbey Road />
+		[259] (588,446)<div  />
+		[260] (588,546)<div  />
+Music
+[261] (571,630)<div  />
+	[262] (571,630)<div  />
+		[263] (571,630)<div  />
+			[264] (566,630)<span >Vinyl Records />
+[265] (625,629)<div  />
+	[266] (625,629)<div  />
+		[267] (625,629)<div  />
+			[268] (617,629)<span >Rare Coins />
+[269] (570,600)<div  />
+	[270] (570,600)<div  />
+		[271] (570,600)<div  />
+			[272] (566,600)<span >Vintage Stamps />
+[273] (625,601)<div  />
+	[274] (625,601)<div  />
+		[275] (625,601)<div  />
+			[276] (619,601)<span >Old Cameras />
+Items
+[277] (571,778)<div  />
+	[278] (571,778)<div  />
+		[279] (571,778)<div  />
+			[280] (566,778)<span >Leica Q3 Camera />
+[281] (625,776)<div  />
+	[282] (625,776)<div  />
+		[283] (625,776)<div  />
+			[284] (621,776)<span >HHKB Keyboard />
+[285] (571,750)<div  />
+	[286] (571,750)<div  />
+		[287] (571,750)<div  />
+			[288] (566,750)<span >OLED Monitor />
+Wishes
+[289] (549,904)<div  />
+Stay Hungry
+[290] (549,893)<div  />
+No Spoon
+[291] (562,893)<div  />
+Carpe Diem
+[292] (574,893)<div  />
+
+</current_dom>

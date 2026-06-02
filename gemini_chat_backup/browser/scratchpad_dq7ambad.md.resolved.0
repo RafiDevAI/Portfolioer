@@ -1,0 +1,14 @@
+# Tasks Checklist
+
+- [ ] Navigate to http://localhost:3000
+- [ ] Verify Left Column: narrow (skinny) with exactly 7 shelf levels (6th shelf is "Gallery", category-less)
+- [ ] Verify Middle Column: wide with exactly 6 shelf levels
+- [ ] Verify Right Column: wide with exactly 6 shelf levels
+- [ ] Verify Lisa Simpson doll on Shelf 3 Right
+- [ ] Verify Flower vase on Shelf 4 Right
+- [ ] Verify Lucky cat on Shelf 1 Middle
+- [ ] Verify Bunny + storybook on Shelf 3 Middle
+- [ ] Verify Egon Schiele box on Shelf 6 Middle
+- [ ] Verify No scroll bar
+- [ ] Take a screenshot and save it
+- [ ] Report the findings

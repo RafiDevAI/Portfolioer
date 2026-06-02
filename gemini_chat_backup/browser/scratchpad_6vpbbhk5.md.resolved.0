@@ -1,0 +1,8 @@
+# Task Checklist
+- [ ] Navigate to http://localhost:3000
+- [ ] Wait 3 seconds for load
+- [ ] Take screenshot of the Cozy Billy view (save as cozy_billy_view)
+- [ ] Locate and click "Grand Wall" or "6-Col" tab
+- [ ] Wait 2 seconds
+- [ ] Take screenshot of the Grand Wall view (save as grand_wall_view)
+- [ ] Write final summary with paths to both screenshots

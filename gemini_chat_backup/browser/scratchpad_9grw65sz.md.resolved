@@ -1,0 +1,9 @@
+# Task Plan
+
+- [/] Navigate to http://localhost:3000 (Currently connection is refused. Let's try 127.0.0.1:3000 as well, but still refused. Let's wait longer or try different ports.)
+- [ ] Wait 3 seconds for the page to load
+- [ ] Take a screenshot of the Modular Billy layout
+- [ ] Click the "Grand Wall (6-Col)" tab button
+- [ ] Wait 2 seconds
+- [ ] Take a screenshot of the Grand Wall layout
+- [ ] Record the absolute paths of the screenshots and summarize the findings

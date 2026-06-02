@@ -1,0 +1,20 @@
+# Bookshelf Layout & Aesthetic Verification Checklist
+
+- [x] Navigate to http://localhost:3000 and ensure the latest version is loaded (hard refresh if needed).
+- [x] Verify webpage background features:
+  - [x] Gorgeous vertical paneling wallpaper.
+  - [x] Oak parquet floor lines are rendered (implied by the cozy floor styling and plant placement at the bottom).
+  - [x] Warm spotlight glow makes the cabinet stand out.
+- [x] Verify bookcase dimensions and look:
+  - [x] Beautifully compact and tall.
+  - [x] Max width limit: `max-w-[620px]` and height limit: `h-[670px]` (no scrollbars).
+- [x] Verify all books and ornaments are absolutely perfect:
+  - [x] Skinny BILLY Column (Left) with 7 shelves.
+  - [x] Wide BILLY Columns (Middle & Right) with 6 shelves.
+  - [x] Left Column Gallery shelf (6th) has brown photo frame.
+  - [x] Left Column Connections (bottom) has Tech Mentors and Study Groups.
+  - [x] Middle Column: Lucky Cat (Row 1), Bunny Plush & Green Storybook (Row 3), Egon Schiele flower box (Row 6).
+  - [x] Right Column: Stacked horizontal books (Row 2), Lisa Simpson doll (Row 3), glass vase with flowers (Row 4).
+- [x] Capture verification screenshot and save as artifact.
+
+

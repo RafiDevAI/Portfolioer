@@ -1,0 +1,8 @@
+# Verification Plan
+1. Navigate to http://localhost:3000
+2. Take a screenshot to inspect the shelves and books
+3. Verify:
+   - Shelf levels are organically mismatched (asymmetrical heights matching the empty photo).
+   - Vertical books are scaled inside using percentage height and leave a cozy gap at the top of each shelf.
+   - No book overflows or looks broken/clips out of the shelves.
+4. If everything looks good, save the final screenshot and report back.

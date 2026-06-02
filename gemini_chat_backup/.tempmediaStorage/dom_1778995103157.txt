@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (172,54)<div  />
+	[1] (172,54)<div  />
+		[2] (172,53)<div  />
+			[3] (172,53)<span >X / Twitter />
+		[4] (176,122)<div  />
+[5] (200,45)<div  />
+	[6] (200,45)<div  />
+		[7] (200,45)<div  />
+			[8] (200,45)<span >Github Craft />
+		[9] (200,124)<div  />
+Memories
+[10] (172,317)<div  />
+	[11] (172,317)<div  />
+		[12] (173,317)<div  />
+			[13] (173,317)<span >Graduation Day />
+		[14] (166,221)<div  />
+		[15] (167,227)<div  />
+		[16] (178,391)<div  />
+[17] (203,312)<div  />
+	[18] (203,312)<div  />
+		[19] (203,312)<div  />
+			[20] (203,312)<span >Euro Summer />
+		[21] (203,209)<div  />
+		[22] (203,214)<div  />
+		[23] (203,394)<div  />
+Connections
+[24] (179,593)<div  />
+	[25] (179,593)<div  />
+		[26] (179,593)<div  />
+			[27] (179,593)<span >Tech Mentors />
+		[28] (179,500)<div  />
+		[29] (179,506)<div  />
+		[30] (179,663)<div  />
+[31] (378,56)<div  />
+	[32] (378,56)<div  />
+		[33] (379,56)<div  />
+			[34] (379,56)<span >Obsidian Custom />
+		[35] (379,130)<div  />
+[36] (407,59)<div  />
+	[37] (407,59)<div  />
+		[38] (407,59)<div  />
+			[39] (407,59)<span >Brainwaves />
+		[40] (402,128)<div  />
+[41] (587,44)<div  />
+	[42] (586,44)<div  />
+		[43] (586,44)<img  />
+	[44] (590,127)<span >Der Hase mit den roten Ohren />
+Achievements
+[45] (379,343)<div  />
+	[46] (379,343)<div  />
+		[47] (379,343)<div  />
+			[48] (379,343)<span >First 1k Users />
+		[49] (379,243)<div  />
+		[50] (379,248)<div  />
+		[51] (379,422)<div  />
+[52] (408,351)<div  />
+	[53] (408,351)<div  />
+		[54] (408,351)<div  />
+			[55] (408,351)<span >Hackathon Win />
+		[56] (414,261)<div  />
+		[57] (414,266)<div  />
+		[58] (404,420)<div  />
+Papers Written
+[59] (378,587)<div  />
+	[60] (378,587)<div  />
+		[61] (379,587)<div  />
+			[62] (379,587)<span >Neural Nets V1 />
+		[63] (379,489)<div  />
+		[64] (379,495)<div  />
+		[65] (379,663)<div  />
+[66] (691,46)<div  />
+	[67] (691,46)<div  />
+		[68] (692,46)<div  />
+			[69] (692,46)<span >Leica Q3 Camera />
+		[70] (692,124)<div  />
+[71] (720,55)<div  />
+	[72] (720,55)<div  />
+		[73] (720,55)<div  />
+			[74] (720,55)<span >Mechanical Key />
+		[75] (716,122)<div  />
+Quotes I Live By
+[76] (682,323)<div  />
+	[77] (682,323)<div  />
+		[78] (682,323)<div  />
+			[79] (682,323)<span >Stay Hungry />
+		[80] (676,233)<div  />
+		[81] (676,238)<div  />
+		[82] (687,391)<div  />
+[83] (709,319)<div  />
+	[84] (709,319)<div  />
+		[85] (709,319)<div  />
+			[86] (709,319)<span >No Spoon />
+		[87] (709,223)<div  />
+		[88] (709,228)<div  />
+		[89] (709,394)<div  />
+Projects & Skills
+[90] (691,582)<div  />
+	[91] (691,582)<div  />
+		[92] (692,582)<div  />
+			[93] (692,582)<span >Portfolioer />
+		[94] (692,478)<div  />
+		[95] (692,484)<div  />
+		[96] (692,663)<div  />
+[97] (721,589)<div  />
+	[98] (721,589)<div  />
+		[99] (721,589)<div  />
+			[100] (721,589)<span >Next.js Magic />
+		[101] (728,495)<div  />
+		[102] (727,501)<div  />
+		[103] (717,661)<div  />
+© 2026 Portfolioer • Inspired by Rafi's cozy library
+
+</current_dom>

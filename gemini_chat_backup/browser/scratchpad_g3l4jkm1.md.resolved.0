@@ -1,0 +1,8 @@
+# Verification Plan
+- [x] List browser pages and refresh localhost:3000
+- [ ] Take a screenshot and analyze DOM to verify visual layout
+  - [ ] Check if "Kazi's Library" header and search bar are 100% fully visible at the top of the viewport
+  - [ ] Check if shelf category labels (Movies, Places, Art, Hobbies, App, etc.) are clear, bold, highly visible, and have zero text clipping or overlapping
+  - [ ] Check if book titles on the spines are sharp, high-contrast, and easy to read
+- [ ] Save screenshot as artifact
+- [ ] Final report to the user

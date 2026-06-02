@@ -1,0 +1,11 @@
+# Bookshelf Verification Task
+
+## Checklist
+- [ ] Open http://localhost:3000
+- [ ] Verify 6x3 symmetric white modular grid columns
+- [ ] Verify 8 bright yellow apps books stacked tightly in Row 4 Middle (Middle column, Shelf 4 / Row 4)
+- [ ] Verify black speaker box on Shelf 5 Left (Left column, Shelf 5)
+- [ ] Verify pile of paper slabs on Shelf 4 Left (Left column, Shelf 4)
+- [ ] Verify Lisa figurine stacked books on Shelf 2 Right (Right column, Shelf 2)
+- [ ] Verify no vertical scrolling (fits perfectly on single screen)
+- [ ] Capture screenshot

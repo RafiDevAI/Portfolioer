@@ -1,0 +1,9 @@
+# Task Checklist
+
+- [ ] Navigate to http://localhost:3000
+- [ ] Verify bookcase is styled as tall vertical cabinet (`max-w-3xl`, `h-[850px]`)
+- [ ] Verify books are large, prominent, and easy to read
+- [ ] Verify ornaments are perfectly sized (Lisa Simpson, lucky cat, vase, speaker, Egon Schiele print)
+- [ ] Verify the layout looks like a real tall bookcase
+- [ ] Capture a screenshot and save as artifact
+- [ ] Final report and summary

@@ -1,0 +1,8 @@
+# Verification Checklist for Kazi's Library
+
+- [ ] Open `http://localhost:3000`
+- [ ] Verify "Kazi's Library" header and search bar are 100% visible at the top
+- [ ] Verify shelf category labels (large bold dark brown font)
+- [ ] Verify book titles (sharp, highly legible, high contrast cream paper labels, vertical sideways text rotation)
+- [ ] Verify responsiveness and check for clipping
+- [ ] Capture verification screenshot

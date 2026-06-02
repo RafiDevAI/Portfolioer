@@ -1,0 +1,14 @@
+# Verification Plan - Bookshelf Tabs
+
+## Checklist
+- [ ] Open http://localhost:3000 in browser
+- [ ] Verify default "Modular Billy" tab is rendered properly
+- [ ] Capture screenshot of "Modular Billy" tab
+- [ ] Click "Grand Wall (6-Column)" tab
+- [ ] Verify smooth expansion and 6-column layout with 18 categories and ornaments
+- [ ] Verify category names rendered beautifully on wood board front edges
+- [ ] Capture screenshot of "Grand Wall" tab
+- [ ] Write final summary and report findings
+
+## Findings
+(To be populated)

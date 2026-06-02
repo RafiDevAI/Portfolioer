@@ -1,0 +1,89 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Portfolioer
+A Library of Experiences & Passions
+Movies & Shows
+[0] (130,573)<div  />
+	[1] (130,573)<div  />
+		[2] (130,573)<div  />
+			[3] (130,573)<span >The Matrix />
+		[4] (130,668)<div  />
+			[5] (130,672)<span >1999 />
+		[6] (130,461)<div  />
+		[7] (130,466)<div  />
+		[8] (130,662)<div  />
+[9] (159,573)<div  />
+	[10] (159,573)<div  />
+		[11] (159,573)<div  />
+			[12] (159,573)<span >Inception />
+		[13] (159,668)<div  />
+			[14] (159,672)<span >2010 />
+		[15] (159,461)<div  />
+		[16] (159,466)<div  />
+		[17] (159,662)<div  />
+[18] (188,573)<div  />
+	[19] (188,573)<div  />
+		[20] (188,573)<div  />
+			[21] (188,573)<span >Interstellar />
+		[22] (188,668)<div  />
+			[23] (188,672)<span >2014 />
+		[24] (188,461)<div  />
+		[25] (188,466)<div  />
+		[26] (188,662)<div  />
+Games
+[27] (408,573)<div  />
+	[28] (408,573)<div  />
+		[29] (408,573)<div  />
+			[30] (408,573)<span >Elden Ring />
+		[31] (408,668)<div  />
+			[32] (408,672)<span >2022 />
+		[33] (408,461)<div  />
+		[34] (408,466)<div  />
+		[35] (408,662)<div  />
+[36] (438,573)<div  />
+	[37] (438,573)<div  />
+		[38] (438,573)<div  />
+			[39] (438,573)<span >The Witcher 3 />
+		[40] (438,668)<div  />
+			[41] (438,672)<span >2015 />
+		[42] (438,461)<div  />
+		[43] (438,466)<div  />
+		[44] (438,662)<div  />
+Books
+[45] (684,573)<div  />
+	[46] (684,573)<div  />
+		[47] (684,573)<div  />
+			[48] (684,573)<span >Dune />
+		[49] (684,652)<div  />
+			[50] (684,656)<span >Frank Herbert />
+		[51] (684,461)<div  />
+		[52] (684,466)<div  />
+		[53] (684,662)<div  />
+[54] (708,573)<div  />
+	[55] (708,573)<div  />
+		[56] (708,573)<div  />
+			[57] (708,573)<span >Project Hail Mary />
+		[58] (708,652)<div  />
+			[59] (708,656)<span >Andy Weir />
+		[60] (708,461)<div  />
+		[61] (708,466)<div  />
+		[62] (708,662)<div  />
+Places
+Kyoto, Japan
+[63] (131,916)<div  />
+[64] (131,921)<div  />
+Swiss Alps
+[65] (160,916)<div  />
+[66] (160,921)<div  />
+Food
+Authentic Ramen
+[67] (405,916)<div  />
+[68] (405,921)<div  />
+Music
+Discovery
+[69] (686,916)<div  />
+[70] (686,921)<div  />
+
+</current_dom>

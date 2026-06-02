@@ -1,0 +1,16 @@
+# Task Checklist
+- [ ] Navigate to http://localhost:3000 (Failed: Connection Refused)
+- [ ] Wait 3 seconds for load
+- [ ] Take screenshot of the Cozy Billy view (save as cozy_billy_view)
+- [ ] Locate and click "Grand Wall" or "6-Col" tab
+- [ ] Wait 2 seconds
+- [ ] Take screenshot of the Grand Wall view (save as grand_wall_view)
+- [ ] Write final summary with paths to both screenshots
+
+## Findings & Issues
+- Navigating to `http://localhost:3000/` resulted in `net::ERR_CONNECTION_REFUSED`.
+- Navigating to `http://127.0.0.1:3000/` also resulted in `net::ERR_CONNECTION_REFUSED`.
+- The development server might be running on a different port (e.g. 3001, 3002) because port 3000 was busy, or it has stopped/crashed.
+- Since we do not have command execution tools as a browser subagent, we will try alternative ports (3001, 3002) or see if there is any indicator of the port.
+
+
