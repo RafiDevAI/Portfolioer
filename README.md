@@ -2,16 +2,30 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## 🤖 Antigravity AI Chat Backup
 
-This repository includes a fully preserved conversation history with the Antigravity AI assistant in the `gemini_chat_backup` folder. This allows you to instantly resume development on any machine exactly where you left off.
+This repository includes a fully preserved conversation history with the Antigravity AI assistant in the `gemini_chat_backup` folder. This allows you to instantly resume development on **any machine** exactly where you left off — with full AI memory intact.
 
-### How to Restore the AI Chat:
-1. Clone this repository to your local machine.
-2. Inside the project root, locate the `gemini_chat_backup` folder.
-3. Copy the **contents** of that folder (or the folder itself if you renamed it to its Conversation ID).
-4. Navigate to your local Antigravity memory directory: 
-   `C:\Users\YOUR_USERNAME\.gemini\antigravity\brain\`
-5. Paste the folder inside `brain\`. *(Note: The original Conversation ID for this chat is `b03f6d8e-0965-488d-8893-b08fc3d295e4`)*.
-6. Open your Gemini interface, check your conversation history, and the AI will instantly have full memory and context of this entire project!
+### How to Restore the AI Chat on a New Machine:
+
+**Step 1:** Clone this repository:
+```bash
+git clone https://github.com/RafiDevAI/Portfolioer.git
+```
+
+**Step 2:** Copy the main `.pb` memory file to the Antigravity conversations folder:
+```
+gemini_chat_backup/b03f6d8e-0965-488d-8893-b08fc3d295e4.pb
+  → C:\Users\YOUR_USERNAME\.gemini\antigravity\conversations\
+```
+
+**Step 3:** Copy the rest of the chat backup to the Antigravity brain folder:
+```
+gemini_chat_backup/  (all contents EXCEPT the .pb file)
+  → C:\Users\YOUR_USERNAME\.gemini\antigravity\brain\b03f6d8e-0965-488d-8893-b08fc3d295e4\
+```
+
+**Step 4:** Open the Antigravity (Gemini) interface. The conversation `b03f6d8e-0965-488d-8893-b08fc3d295e4` will appear in your history with full memory of everything we built together!
+
+> **Note:** Replace `YOUR_USERNAME` with your actual Windows username (e.g. `ksa`).
 
 ## Getting Started
 
